@@ -1003,3 +1003,62 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.20-10.42.19:412][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
 [2022.10.20-10.42.19:412][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2022.10.20-10.42.19:846][  1]LogSlate: Took 0.000277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.20-10.44.06:619][444]LogDerivedDataCache: C:/Users/nd98105/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.743 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.20-10.50.34:315][316]LogSlate: Window 'New Level' being destroyed
+[2022.10.20-10.50.34:322][316]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.20-10.50.34:322][316]LightingResults: New page: Lighting Build
+[2022.10.20-10.50.34:322][316]LoadErrors: New page: Loading map: Template_Default.umap
+[2022.10.20-10.50.34:359][316]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.10.20-10.50.34:359][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.20-10.50.34:359][316]MapCheck: New page: Map Check
+[2022.10.20-10.50.34:359][316]LightingResults: New page: Lighting Build
+[2022.10.20-10.50.34:365][316]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.20-10.50.34:368][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.10.20-10.50.34:395][316]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2022.10.20-10.50.34:395][316]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.20-10.50.34:395][316]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.20-10.50.34:395][316]LogAIModule: Creating AISystem for world Untitled_1
+[2022.10.20-10.50.34:448][316]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.20-10.50.34:454][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.10.20-10.50.34:455][316]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.20-10.50.34:455][316]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.199ms to complete.
+[2022.10.20-10.50.34:455][316]LogFileHelpers: Loading map 'Template_Default' took 0.134
+[2022.10.20-10.50.39:088][384]LogSlate: Window 'Save Level As' being destroyed
+[2022.10.20-10.50.39:218][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.20-10.50.39:224][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.10.20-10.50.39:231][384]LogSavePackage: Moving output files for package: /Game/NewMap
+[2022.10.20-10.50.39:231][384]LogSavePackage: Moving '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Saved/NewMap6ADB4FFC4A5BF9B45F753A866ED30245.tmp' to '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/NewMap.umap'
+[2022.10.20-10.50.39:240][384]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/NewMap_BuiltData
+[2022.10.20-10.50.39:240][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/NewMap_BuiltData.uasset" SILENT=true
+[2022.10.20-10.50.39:244][384]LogSavePackage: Moving output files for package: /Game/NewMap_BuiltData
+[2022.10.20-10.50.39:244][384]LogSavePackage: Moving '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Saved/NewMap_BuiltDataC938FA974F8D6BFE0A2E34896711BD29.tmp' to '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/NewMap_BuiltData.uasset'
+[2022.10.20-10.50.39:245][384]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/NewMap_BuiltData
+[2022.10.20-10.50.39:252][384]LogFileHelpers: Saving map 'NewMap' took 0.157
+[2022.10.20-10.50.39:255][384]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.20-10.50.39:255][384]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/NewMap_BuiltData.NewMap_BuiltData
+[2022.10.20-10.50.39:255][384]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
+[2022.10.20-10.50.47:118][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.20-10.50.47:123][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.10.20-10.50.47:129][844]LogSavePackage: Moving output files for package: /Game/NewMap
+[2022.10.20-10.50.47:129][844]LogSavePackage: Moving '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Saved/NewMap9960CA6949CCC5248C61989861398680.tmp' to '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/NewMap.umap'
+[2022.10.20-10.50.47:134][844]LogFileHelpers: No new changes to save!
+[2022.10.20-10.50.47:143][844]AssetCheck: New page: Asset Save: NewMap
+[2022.10.20-10.50.47:143][844]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
+[2022.10.20-10.51.06:718][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.20-10.51.06:724][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.10.20-10.51.06:729][453]LogSavePackage: Moving output files for package: /Game/NewMap
+[2022.10.20-10.51.06:730][453]LogSavePackage: Moving '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Saved/NewMapB14451B74EFEB94036339BA61C51AF81.tmp' to '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/NewMap.umap'
+[2022.10.20-10.51.06:734][453]LogFileHelpers: No new changes to save!
+[2022.10.20-10.51.06:743][453]AssetCheck: New page: Asset Save: NewMap
+[2022.10.20-10.51.06:744][453]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
+[2022.10.20-10.51.07:575][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.10.20-10.51.14:760][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.10.20-10.51.23:093][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.20-10.51.23:098][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.10.20-10.51.23:104][428]LogSavePackage: Moving output files for package: /Game/NewMap
+[2022.10.20-10.51.23:104][428]LogSavePackage: Moving '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Saved/NewMap61BDC98E4D3D790045A536927558F102.tmp' to '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/NewMap.umap'
+[2022.10.20-10.51.23:109][428]LogFileHelpers: No new changes to save!
+[2022.10.20-10.51.23:117][428]AssetCheck: New page: Asset Save: NewMap
+[2022.10.20-10.51.23:117][428]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
