@@ -1062,3 +1062,410 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.20-10.51.23:109][428]LogFileHelpers: No new changes to save!
 [2022.10.20-10.51.23:117][428]AssetCheck: New page: Asset Save: NewMap
 [2022.10.20-10.51.23:117][428]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
+[2022.10.20-11.11.06:483][499]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.20-11.11.07:593][499]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.10.20-11.11.07:601][499]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.10.20-11.11.07:604][499]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.10.20-11.11.07:619][500]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.10.20-11.11.14:742][921]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_var
+[2022.10.20-11.11.14:746][921]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.10.20-11.11.15:878][989]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_var.BP_var
+[2022.10.20-11.11.15:879][989]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.20-11.11.16:958][989]LogViewport: Scene viewport resized to 738x402, mode Windowed.
+[2022.10.20-11.11.18:406][ 64]LogViewport: Scene viewport resized to 736x420, mode Windowed.
+[2022.10.20-11.11.18:525][ 66]LogViewport: Scene viewport resized to 506x254, mode Windowed.
+[2022.10.20-11.11.18:572][ 67]LogViewport: Scene viewport resized to 467x226, mode Windowed.
+[2022.10.20-11.11.18:828][ 82]LogViewport: Scene viewport resized to 1141x693, mode Windowed.
+[2022.10.20-11.11.18:973][ 90]LogSlate: Window 'BP_var' being destroyed
+[2022.10.20-11.11.19:575][124]BlueprintLog: New page: Compile BP_var
+[2022.10.20-11.11.19:613][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.10.20-11.11.19:967][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_var" FILE="../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/BP_var.uasset" SILENT=true
+[2022.10.20-11.11.19:970][140]LogSavePackage: Moving output files for package: /Game/BP_var
+[2022.10.20-11.11.19:970][140]LogSavePackage: Moving '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Saved/BP_var9834FFA546C0555B775E80ABB6A0C847.tmp' to '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/BP_var.uasset'
+[2022.10.20-11.11.19:983][140]AssetCheck: New page: Asset Save: BP_var
+[2022.10.20-11.11.19:983][140]LogContentValidation: Display: Validating Blueprint /Game/BP_var.BP_var
+[2022.10.20-11.11.22:416][286]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.10.20-11.12.07:589][772]LogSlate: Took 0.005106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.10.20-11.12.45:203][859]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to STreeView< TSharedPtr<FGraphActionNode> > [SGraphActionMenu.cpp(312)].
+[2022.10.20-11.12.45:283][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.10.20-11.12.45:283][859]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.025
+[2022.10.20-11.12.45:284][859]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_var] ([2] browsable assets)...
+[2022.10.20-11.12.45:284][859]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_var]
+[2022.10.20-11.12.45:284][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_var" FILE="../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Saved/Autosaves/Game/BP_var_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.10.20-11.12.45:287][859]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP_var_Auto1
+[2022.10.20-11.12.45:287][859]LogSavePackage: Moving '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Saved/BP_var_Auto14A1199644DB24429BFC3C8BF8FA693D3.tmp' to '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Saved/Autosaves/Game/BP_var_Auto1.uasset'
+[2022.10.20-11.12.45:288][859]LogFileHelpers: Auto-saving content packages took 0.004
+[2022.10.20-11.12.49:650][ 25]BlueprintLog: New page: Compile BP_var
+[2022.10.20-11.12.49:687][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.10.20-11.12.51:446][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_var" FILE="../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/BP_var.uasset" SILENT=true
+[2022.10.20-11.12.51:450][125]LogSavePackage: Moving output files for package: /Game/BP_var
+[2022.10.20-11.12.51:451][125]LogSavePackage: Moving '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Saved/BP_varEFA813494CFA09D3BD9D1B8354E48119.tmp' to '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/BP_var.uasset'
+[2022.10.20-11.12.51:466][125]AssetCheck: New page: Asset Save: BP_var
+[2022.10.20-11.12.51:466][125]LogContentValidation: Display: Validating Blueprint /Game/BP_var.BP_var
+[2022.10.20-11.13.25:814][148]BlueprintLog: New page: Compile BP_var
+[2022.10.20-11.13.25:851][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.10.20-11.13.28:341][297]BlueprintLog: New page: Compile BP_var
+[2022.10.20-11.13.28:376][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.10.20-11.13.28:474][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_var" FILE="../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/BP_var.uasset" SILENT=true
+[2022.10.20-11.13.28:477][297]LogSavePackage: Moving output files for package: /Game/BP_var
+[2022.10.20-11.13.28:477][297]LogSavePackage: Moving '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Saved/BP_var94E76A824D6CB3C532AAC389C946D353.tmp' to '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/BP_var.uasset'
+[2022.10.20-11.13.28:488][297]AssetCheck: New page: Asset Save: BP_var
+[2022.10.20-11.13.28:488][297]LogContentValidation: Display: Validating Blueprint /Game/BP_var.BP_var
+[2022.10.20-11.15.13:563][752]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.20-11.15.13:567][752]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.20-11.15.13:568][752]LogPlayLevel: [PlayLevel] Compiling BP_var before play...
+[2022.10.20-11.15.13:576][752]LogBlueprint: Error: [AssetLog] C:\Users\nd98105\Documents\GitHub\unreal_study\testtestmygit\Content\BP_var.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Convert Integer to Float (double-precision)' at  int + int
+[2022.10.20-11.15.13:577][752]LogBlueprint: Error: [AssetLog] C:\Users\nd98105\Documents\GitHub\unreal_study\testtestmygit\Content\BP_var.uasset: [Compiler] Output pin type 'Float (double-precision)' is not compatible with input type of 'Integer' on ' int + int '
+[2022.10.20-11.15.13:620][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.10.20-11.15.13:622][752]LogPlayLevel: PlayLevel: Blueprint regeneration took 54 ms (1 blueprints)
+[2022.10.20-11.15.13:622][752]BlueprintLog: Warning: Blueprint failed to compile:  BP_var
+[2022.10.20-11.15.13:623][752]LogCustomDialog: Dialog displayed:
+[2022.10.20-11.15.16:756][752]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2022.10.20-11.15.18:175][831]LogSlate: Window 'Message Log' being destroyed
+[2022.10.20-11.15.18:180][831]LogSlate: Window 'Message Log' being destroyed
+[2022.10.20-11.15.18:936][875]BlueprintLog: New page: Compile BP_var
+[2022.10.20-11.15.18:938][875]LogBlueprint: Error: [AssetLog] C:\Users\nd98105\Documents\GitHub\unreal_study\testtestmygit\Content\BP_var.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Convert Integer to Float (double-precision)' at  int + int
+[2022.10.20-11.15.18:938][875]LogBlueprint: Error: [AssetLog] C:\Users\nd98105\Documents\GitHub\unreal_study\testtestmygit\Content\BP_var.uasset: [Compiler] Output pin type 'Float (double-precision)' is not compatible with input type of 'Integer' on ' int + int '
+[2022.10.20-11.15.18:975][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.10.20-11.15.19:733][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_var" FILE="../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/BP_var.uasset" SILENT=true
+[2022.10.20-11.15.19:739][915]LogSavePackage: Moving output files for package: /Game/BP_var
+[2022.10.20-11.15.19:739][915]LogSavePackage: Moving '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Saved/BP_varE351E0414685D732FC34548EFA0E1164.tmp' to '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/BP_var.uasset'
+[2022.10.20-11.15.19:751][915]AssetCheck: New page: Asset Save: BP_var
+[2022.10.20-11.15.19:751][915]LogContentValidation: Display: Validating Blueprint /Game/BP_var.BP_var
+[2022.10.20-11.15.54:740][931]BlueprintLog: New page: Compile BP_var
+[2022.10.20-11.15.54:776][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.10.20-11.15.54:870][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_var" FILE="../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/BP_var.uasset" SILENT=true
+[2022.10.20-11.15.54:875][931]LogSavePackage: Moving output files for package: /Game/BP_var
+[2022.10.20-11.15.54:876][931]LogSavePackage: Moving '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Saved/BP_varF6885A014C6C94400CB0E1A098D7EA47.tmp' to '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/BP_var.uasset'
+[2022.10.20-11.15.54:887][931]AssetCheck: New page: Asset Save: BP_var
+[2022.10.20-11.15.54:887][931]LogContentValidation: Display: Validating Blueprint /Game/BP_var.BP_var
+[2022.10.20-11.15.55:177][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_var" FILE="../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/BP_var.uasset" SILENT=true
+[2022.10.20-11.15.55:183][943]LogSavePackage: Moving output files for package: /Game/BP_var
+[2022.10.20-11.15.55:184][943]LogSavePackage: Moving '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Saved/BP_var9EA4AF7D4C9378CD41B2A2B91621A7E3.tmp' to '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/BP_var.uasset'
+[2022.10.20-11.15.55:198][943]AssetCheck: New page: Asset Save: BP_var
+[2022.10.20-11.15.55:198][943]LogContentValidation: Display: Validating Blueprint /Game/BP_var.BP_var
+[2022.10.20-11.15.57:236][ 66]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.20-11.15.57:240][ 66]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.20-11.15.57:240][ 66]PIE: New page: PIE session: NewMap (2022. 10. 21. 오전 5:15:57)
+[2022.10.20-11.15.57:245][ 66]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.10.20-11.15.57:245][ 66]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.10.20-11.15.57:245][ 66]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2022.10.20-11.15.57:247][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001875s)
+[2022.10.20-11.15.57:247][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.001998s)
+[2022.10.20-11.15.57:247][ 66]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.20-11.15.57:247][ 66]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.20-11.15.57:247][ 66]LogAIModule: Creating AISystem for world NewMap
+[2022.10.20-11.15.57:248][ 66]LogPlayLevel: PIE: World Init took: (0.000755s)
+[2022.10.20-11.15.57:272][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.10.20-11.15.57:273][ 66]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.10.20-11.15.57:274][ 66]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.20-11.15.57:274][ 66]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.20-11.15.57:274][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.20-11.15.57:274][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.20-11.15.57:274][ 66]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.20-11.15.57:274][ 66]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.20-11.15.57:274][ 66]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.20-11.15.57:274][ 66]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.20-11.15.57:274][ 66]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.20-11.15.57:274][ 66]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.20-11.15.57:274][ 66]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.20-11.15.57:276][ 66]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.20-11.15.57:294][ 66]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2022.10.20-11.15.57:294][ 66]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.20-11.15.57:294][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.20-11.15.57:294][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.20-11.15.57:295][ 66]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.10.20-11.15.57:295][ 66]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.10.20-11.15.57:297][ 66]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.10.20-11.15.57:297][ 66]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.10.20-11.15.57:297][ 66]LogInit: FAudioDevice initialized.
+[2022.10.20-11.15.57:297][ 66]LogAudio: Display: Audio Device (ID: 2) registered with world 'NewMap'.
+[2022.10.20-11.15.57:363][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.20-11.15.57:364][ 66]LogLoad: Game class is 'GameModeBase'
+[2022.10.20-11.15.57:364][ 66]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2022.10.20-20.15.57
+[2022.10.20-11.15.57:365][ 66]LogWorld: Bringing up level for play took: 0.000798
+[2022.10.20-11.15.57:367][ 66]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2022.10.20-11.15.57:368][ 66]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.20-11.15.57:391][ 66]PIE: Server logged in
+[2022.10.20-11.15.57:392][ 66]PIE: Play in editor total start time 0.152 seconds.
+[2022.10.20-11.15.57:400][ 66]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.10.20-11.16.01:845][280]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.20-11.16.01:846][280]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2022.10.20-11.16.01:846][280]LogSlate: Window 'testtestmygit Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.20-11.16.01:851][280]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.20-11.16.01:852][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.20-11.16.01:863][280]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.20-11.16.01:868][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.20-11.16.01:893][280]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.10.20-11.16.01:895][280]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.10.20-11.16.01:938][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.10.20-11.16.01:949][281]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2022.10.20-11.16.05:707][490]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_var.BP_var_C
+[2022.10.20-11.16.05:707][490]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_var.BP_var_C
+[2022.10.20-11.16.05:708][490]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_var.BP_var as actor: BP_var_C /Game/NewMap.NewMap:PersistentLevel.BP_var_C_0
+[2022.10.20-11.16.05:708][490]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_var.BP_var as actor: BP_var_C /Game/NewMap.NewMap:PersistentLevel.BP_var_C_0
+[2022.10.20-11.16.05:742][491]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_var.BP_var_C
+[2022.10.20-11.16.05:742][491]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_var.BP_var_C
+[2022.10.20-11.16.05:743][491]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_var.BP_var as actor: BP_var_C /Game/NewMap.NewMap:PersistentLevel.BP_var_C_1
+[2022.10.20-11.16.05:744][491]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_var.BP_var as actor: BP_var_C /Game/NewMap.NewMap:PersistentLevel.BP_var_C_1
+[2022.10.20-11.16.07:072][563]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.20-11.16.07:104][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.10.20-11.16.07:112][563]LogSavePackage: Moving output files for package: /Game/NewMap
+[2022.10.20-11.16.07:112][563]LogSavePackage: Moving '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Saved/NewMap9DD02B9348CDC3EA2231A4A0DCE8A6BA.tmp' to '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/NewMap.umap'
+[2022.10.20-11.16.07:121][563]LogFileHelpers: No new changes to save!
+[2022.10.20-11.16.07:132][563]AssetCheck: New page: Asset Save: NewMap
+[2022.10.20-11.16.07:132][563]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
+[2022.10.20-11.16.07:845][606]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.20-11.16.07:851][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.20-11.16.07:851][606]PIE: New page: PIE session: NewMap (2022. 10. 21. 오전 5:16:07)
+[2022.10.20-11.16.07:851][606]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2022.10.20-11.16.07:853][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001631s)
+[2022.10.20-11.16.07:853][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.001720s)
+[2022.10.20-11.16.07:853][606]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.20-11.16.07:853][606]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.20-11.16.07:854][606]LogAIModule: Creating AISystem for world NewMap
+[2022.10.20-11.16.07:854][606]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2022.10.20-11.16.07:879][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.10.20-11.16.07:881][606]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.10.20-11.16.07:881][606]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.20-11.16.07:881][606]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.20-11.16.07:881][606]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.20-11.16.07:881][606]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.20-11.16.07:881][606]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.20-11.16.07:881][606]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.20-11.16.07:881][606]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.20-11.16.07:881][606]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.20-11.16.07:882][606]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.20-11.16.07:882][606]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.20-11.16.07:882][606]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.20-11.16.07:884][606]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.20-11.16.07:897][606]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2022.10.20-11.16.07:897][606]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.20-11.16.07:897][606]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.20-11.16.07:897][606]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.20-11.16.07:898][606]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.10.20-11.16.07:898][606]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.10.20-11.16.07:900][606]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.10.20-11.16.07:900][606]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.10.20-11.16.07:900][606]LogInit: FAudioDevice initialized.
+[2022.10.20-11.16.07:900][606]LogAudio: Display: Audio Device (ID: 3) registered with world 'NewMap'.
+[2022.10.20-11.16.07:915][606]LogLoad: Game class is 'GameModeBase'
+[2022.10.20-11.16.07:916][606]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2022.10.20-20.16.07
+[2022.10.20-11.16.07:916][606]LogWorld: Bringing up level for play took: 0.000639
+[2022.10.20-11.16.07:918][606]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2022.10.20-11.16.07:919][606]LogBlueprintUserMessages: [BP_var_C_1] 10
+[2022.10.20-11.16.07:919][606]LogBlueprintUserMessages: [BP_var_C_1] b
+[2022.10.20-11.16.07:919][606]LogBlueprintUserMessages: [BP_var_C_1] 10.1
+[2022.10.20-11.16.07:919][606]PIE: Server logged in
+[2022.10.20-11.16.07:920][606]PIE: Play in editor total start time 0.071 seconds.
+[2022.10.20-11.16.13:088][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.20-11.16.13:088][908]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2022.10.20-11.16.13:089][908]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.20-11.16.13:089][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.20-11.16.13:105][908]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.20-11.16.13:109][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.20-11.16.13:134][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.20-11.16.13:134][908]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.10.20-11.16.13:136][908]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.10.20-11.16.13:143][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.10.20-11.16.13:174][909]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.10.20-11.16.20:822][363]BlueprintLog: New page: Compile BP_var
+[2022.10.20-11.16.20:864][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.10.20-11.16.21:311][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_var" FILE="../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/BP_var.uasset" SILENT=true
+[2022.10.20-11.16.21:316][383]LogSavePackage: Moving output files for package: /Game/BP_var
+[2022.10.20-11.16.21:317][383]LogSavePackage: Moving '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Saved/BP_var16C4402542EE00696E126DA33A16E814.tmp' to '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/BP_var.uasset'
+[2022.10.20-11.16.21:329][383]AssetCheck: New page: Asset Save: BP_var
+[2022.10.20-11.16.21:329][383]LogContentValidation: Display: Validating Blueprint /Game/BP_var.BP_var
+[2022.10.20-11.16.22:233][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.20-11.16.22:261][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.10.20-11.16.22:267][430]LogSavePackage: Moving output files for package: /Game/NewMap
+[2022.10.20-11.16.22:268][430]LogSavePackage: Moving '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Saved/NewMapB1F7AED046EBAFE4DBC1EA8C743AE7BC.tmp' to '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/NewMap.umap'
+[2022.10.20-11.16.22:276][430]LogFileHelpers: No new changes to save!
+[2022.10.20-11.16.22:290][430]AssetCheck: New page: Asset Save: NewMap
+[2022.10.20-11.16.22:290][430]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
+[2022.10.20-11.18.51:820][723]BlueprintLog: New page: Compile BP_var
+[2022.10.20-11.18.51:823][723]LogClass: Warning: Type mismatch in array of BP_var_C - Previous (IntProperty) Current(ArrayProperty) for package:  FObjectReader
+[2022.10.20-11.18.51:865][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.10.20-11.18.51:958][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_var" FILE="../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/BP_var.uasset" SILENT=true
+[2022.10.20-11.18.51:964][723]LogSavePackage: Moving output files for package: /Game/BP_var
+[2022.10.20-11.18.51:964][723]LogSavePackage: Moving '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Saved/BP_var5D93B2BC4977806F3E6F8593B3616871.tmp' to '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/BP_var.uasset'
+[2022.10.20-11.18.51:977][723]AssetCheck: New page: Asset Save: BP_var
+[2022.10.20-11.18.51:977][723]LogContentValidation: Display: Validating Blueprint /Game/BP_var.BP_var
+[2022.10.20-11.20.05:825][248]LogSlate: Window 'Change Variable Type' being destroyed
+[2022.10.20-11.24.11:430][451]BlueprintLog: New page: Compile BP_var
+[2022.10.20-11.24.11:478][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.10.20-11.24.11:579][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_var" FILE="../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/BP_var.uasset" SILENT=true
+[2022.10.20-11.24.11:587][451]LogSavePackage: Moving output files for package: /Game/BP_var
+[2022.10.20-11.24.11:587][451]LogSavePackage: Moving '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Saved/BP_var2A2BFEBD400410B597F028B9A8CBC529.tmp' to '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/BP_var.uasset'
+[2022.10.20-11.24.11:604][451]AssetCheck: New page: Asset Save: BP_var
+[2022.10.20-11.24.11:604][451]LogContentValidation: Display: Validating Blueprint /Game/BP_var.BP_var
+[2022.10.20-11.24.11:825][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_var" FILE="../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/BP_var.uasset" SILENT=true
+[2022.10.20-11.24.11:832][458]LogSavePackage: Moving output files for package: /Game/BP_var
+[2022.10.20-11.24.11:833][458]LogSavePackage: Moving '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Saved/BP_var39084A0744D8537B97BB39BE44F8F055.tmp' to '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/BP_var.uasset'
+[2022.10.20-11.24.11:847][458]AssetCheck: New page: Asset Save: BP_var
+[2022.10.20-11.24.11:847][458]LogContentValidation: Display: Validating Blueprint /Game/BP_var.BP_var
+[2022.10.20-11.24.13:080][528]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.20-11.24.13:084][528]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.20-11.24.13:084][528]PIE: New page: PIE session: NewMap (2022. 10. 21. 오전 5:24:13)
+[2022.10.20-11.24.13:084][528]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2022.10.20-11.24.13:086][528]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001672s)
+[2022.10.20-11.24.13:086][528]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.001756s)
+[2022.10.20-11.24.13:086][528]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.20-11.24.13:086][528]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.20-11.24.13:086][528]LogAIModule: Creating AISystem for world NewMap
+[2022.10.20-11.24.13:087][528]LogPlayLevel: PIE: World Init took: (0.000872s)
+[2022.10.20-11.24.13:116][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.10.20-11.24.13:117][528]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.10.20-11.24.13:117][528]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.20-11.24.13:117][528]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.20-11.24.13:117][528]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.20-11.24.13:117][528]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.20-11.24.13:117][528]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.20-11.24.13:117][528]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.20-11.24.13:117][528]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.20-11.24.13:117][528]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.20-11.24.13:118][528]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.20-11.24.13:118][528]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.20-11.24.13:118][528]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.20-11.24.13:119][528]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.20-11.24.13:135][528]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2022.10.20-11.24.13:135][528]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.20-11.24.13:135][528]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.20-11.24.13:135][528]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.20-11.24.13:136][528]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.10.20-11.24.13:136][528]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.10.20-11.24.13:138][528]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.10.20-11.24.13:138][528]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.10.20-11.24.13:138][528]LogInit: FAudioDevice initialized.
+[2022.10.20-11.24.13:138][528]LogAudio: Display: Audio Device (ID: 4) registered with world 'NewMap'.
+[2022.10.20-11.24.13:191][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.20-11.24.13:191][528]LogLoad: Game class is 'GameModeBase'
+[2022.10.20-11.24.13:192][528]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2022.10.20-20.24.13
+[2022.10.20-11.24.13:192][528]LogWorld: Bringing up level for play took: 0.000843
+[2022.10.20-11.24.13:194][528]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2022.10.20-11.24.13:195][528]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.20-11.24.13:196][528]LogBlueprintUserMessages: [BP_var_C_1] 2
+[2022.10.20-11.24.13:197][528]PIE: Server logged in
+[2022.10.20-11.24.13:198][528]PIE: Play in editor total start time 0.114 seconds.
+[2022.10.20-11.24.13:206][528]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.10.20-11.24.15:487][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.20-11.24.15:488][646]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2022.10.20-11.24.15:488][646]LogSlate: Window 'testtestmygit Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.20-11.24.15:495][646]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.20-11.24.15:495][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.20-11.24.15:511][646]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.20-11.24.15:517][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.20-11.24.15:546][646]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.10.20-11.24.15:547][646]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.10.20-11.24.15:555][646]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.10.20-11.24.15:592][647]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.10.20-11.24.27:662][355]BlueprintLog: New page: Compile BP_var
+[2022.10.20-11.24.27:706][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.10.20-11.24.27:810][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_var" FILE="../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/BP_var.uasset" SILENT=true
+[2022.10.20-11.24.27:816][355]LogSavePackage: Moving output files for package: /Game/BP_var
+[2022.10.20-11.24.27:817][355]LogSavePackage: Moving '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Saved/BP_varDB8A1913488B79B8E50C1D9C068EF594.tmp' to '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/BP_var.uasset'
+[2022.10.20-11.24.27:831][355]AssetCheck: New page: Asset Save: BP_var
+[2022.10.20-11.24.27:831][355]LogContentValidation: Display: Validating Blueprint /Game/BP_var.BP_var
+[2022.10.20-11.24.28:048][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_var" FILE="../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/BP_var.uasset" SILENT=true
+[2022.10.20-11.24.28:056][362]LogSavePackage: Moving output files for package: /Game/BP_var
+[2022.10.20-11.24.28:056][362]LogSavePackage: Moving '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Saved/BP_var4F4D64644024F789A002C08137A9D678.tmp' to '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/BP_var.uasset'
+[2022.10.20-11.24.28:073][362]AssetCheck: New page: Asset Save: BP_var
+[2022.10.20-11.24.28:073][362]LogContentValidation: Display: Validating Blueprint /Game/BP_var.BP_var
+[2022.10.20-11.24.30:099][481]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.20-11.24.30:103][481]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.20-11.24.30:103][481]PIE: New page: PIE session: NewMap (2022. 10. 21. 오전 5:24:30)
+[2022.10.20-11.24.30:103][481]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2022.10.20-11.24.30:106][481]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002684s)
+[2022.10.20-11.24.30:106][481]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.002770s)
+[2022.10.20-11.24.30:106][481]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.20-11.24.30:106][481]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.20-11.24.30:106][481]LogAIModule: Creating AISystem for world NewMap
+[2022.10.20-11.24.30:107][481]LogPlayLevel: PIE: World Init took: (0.000781s)
+[2022.10.20-11.24.30:136][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.10.20-11.24.30:137][481]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.10.20-11.24.30:137][481]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.20-11.24.30:137][481]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.20-11.24.30:137][481]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.20-11.24.30:137][481]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.20-11.24.30:137][481]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.20-11.24.30:137][481]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.20-11.24.30:137][481]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.20-11.24.30:137][481]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.20-11.24.30:137][481]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.20-11.24.30:137][481]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.20-11.24.30:137][481]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.20-11.24.30:139][481]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.20-11.24.30:154][481]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2022.10.20-11.24.30:154][481]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.20-11.24.30:154][481]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.20-11.24.30:154][481]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.20-11.24.30:155][481]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.10.20-11.24.30:155][481]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.10.20-11.24.30:157][481]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.10.20-11.24.30:157][481]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.10.20-11.24.30:157][481]LogInit: FAudioDevice initialized.
+[2022.10.20-11.24.30:157][481]LogAudio: Display: Audio Device (ID: 5) registered with world 'NewMap'.
+[2022.10.20-11.24.30:212][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.20-11.24.30:212][481]LogLoad: Game class is 'GameModeBase'
+[2022.10.20-11.24.30:213][481]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2022.10.20-20.24.30
+[2022.10.20-11.24.30:213][481]LogWorld: Bringing up level for play took: 0.000711
+[2022.10.20-11.24.30:215][481]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2022.10.20-11.24.30:216][481]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.20-11.24.30:216][481]LogBlueprintUserMessages: [BP_var_C_1] 2
+[2022.10.20-11.24.30:218][481]PIE: Server logged in
+[2022.10.20-11.24.30:219][481]PIE: Play in editor total start time 0.116 seconds.
+[2022.10.20-11.24.30:226][481]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.10.20-11.24.32:075][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.20-11.24.32:075][573]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2022.10.20-11.24.32:076][573]LogSlate: Window 'testtestmygit Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.20-11.24.32:081][573]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.20-11.24.32:081][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.20-11.24.32:099][573]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.20-11.24.32:104][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.20-11.24.32:132][573]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.20-11.24.32:132][573]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.10.20-11.24.32:133][573]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.10.20-11.24.32:140][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.10.20-11.24.32:179][574]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.10.20-11.26.26:857][147]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.10.20-11.26.26:863][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NewMap_Auto2
+[2022.10.20-11.26.26:864][147]LogSavePackage: Moving '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Saved/NewMap_Auto22904C1BB4440708D2599A6B17CE412FA.tmp' to '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Saved/Autosaves/Game/NewMap_Auto2.umap'
+[2022.10.20-11.26.26:871][147]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.046
+[2022.10.20-11.26.26:871][147]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.046
+[2022.10.20-11.26.26:871][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_var] ([2] browsable assets)...
+[2022.10.20-11.26.26:871][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_var]
+[2022.10.20-11.26.26:872][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_var" FILE="../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Saved/Autosaves/Game/BP_var_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2022.10.20-11.26.26:878][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP_var_Auto2
+[2022.10.20-11.26.26:878][147]LogSavePackage: Moving '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Saved/BP_var_Auto221406E1E49EA4F60A5B4F2908F6B8C96.tmp' to '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Saved/Autosaves/Game/BP_var_Auto2.uasset'
+[2022.10.20-11.26.26:879][147]LogFileHelpers: Auto-saving content packages took 0.007
+[2022.10.20-11.27.24:138][566]BlueprintLog: New page: Compile BP_var
+[2022.10.20-11.27.24:185][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.10.20-11.27.24:280][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_var" FILE="../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/BP_var.uasset" SILENT=true
+[2022.10.20-11.27.24:287][566]LogSavePackage: Moving output files for package: /Game/BP_var
+[2022.10.20-11.27.24:288][566]LogSavePackage: Moving '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Saved/BP_var976EFD6B44FD0FE028C66C9D1EC4A292.tmp' to '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/BP_var.uasset'
+[2022.10.20-11.27.24:306][566]AssetCheck: New page: Asset Save: BP_var
+[2022.10.20-11.27.24:306][566]LogContentValidation: Display: Validating Blueprint /Game/BP_var.BP_var
+[2022.10.20-11.27.25:101][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_var" FILE="../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/BP_var.uasset" SILENT=true
+[2022.10.20-11.27.25:108][607]LogSavePackage: Moving output files for package: /Game/BP_var
+[2022.10.20-11.27.25:109][607]LogSavePackage: Moving '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Saved/BP_varE4B466DC4568DE78A886B684BE0F0E5C.tmp' to '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/BP_var.uasset'
+[2022.10.20-11.27.25:123][607]AssetCheck: New page: Asset Save: BP_var
+[2022.10.20-11.27.25:123][607]LogContentValidation: Display: Validating Blueprint /Game/BP_var.BP_var
+[2022.10.20-11.27.26:352][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.20-11.27.26:382][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.10.20-11.27.26:389][669]LogSavePackage: Moving output files for package: /Game/NewMap
+[2022.10.20-11.27.26:389][669]LogSavePackage: Moving '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Saved/NewMap26CB9901454AA7A7944C34B1A32DEE53.tmp' to '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/NewMap.umap'
+[2022.10.20-11.27.26:398][669]LogFileHelpers: No new changes to save!
+[2022.10.20-11.27.26:413][669]AssetCheck: New page: Asset Save: NewMap
+[2022.10.20-11.27.26:413][669]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
+[2022.10.20-11.30.07:135][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_var" FILE="../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/BP_var.uasset" SILENT=true
+[2022.10.20-11.30.07:141][306]LogSavePackage: Moving output files for package: /Game/BP_var
+[2022.10.20-11.30.07:142][306]LogSavePackage: Moving '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Saved/BP_var7A0522F340094756F08E368F11DF1BE9.tmp' to '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/BP_var.uasset'
+[2022.10.20-11.30.07:156][306]AssetCheck: New page: Asset Save: BP_var
+[2022.10.20-11.30.07:156][306]LogContentValidation: Display: Validating Blueprint /Game/BP_var.BP_var
+[2022.10.20-11.30.08:536][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.20-11.30.08:567][379]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.10.20-11.30.08:573][379]LogSavePackage: Moving output files for package: /Game/NewMap
+[2022.10.20-11.30.08:574][379]LogSavePackage: Moving '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Saved/NewMap04EA313D4F08F392AD9727BB96892DB3.tmp' to '../../../../../../Users/nd98105/Documents/GitHub/unreal_study/testtestmygit/Content/NewMap.umap'
+[2022.10.20-11.30.08:586][379]LogFileHelpers: No new changes to save!
+[2022.10.20-11.30.08:599][379]AssetCheck: New page: Asset Save: NewMap
+[2022.10.20-11.30.08:599][379]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
